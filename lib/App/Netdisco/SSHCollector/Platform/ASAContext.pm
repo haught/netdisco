@@ -22,7 +22,7 @@ C<enable_password> under C<sshcollector> in your configuration file:
      user: oliver
      password: letmein
      enable_password: myenablepass
-     platform: IOS
+     platform: ASAContext
 
 =cut
 
